@@ -1,46 +1,57 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="lllo.bbom" resolutions="1x" timestamp="1480938767616">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lllo.bbom" resolutions="1x" timestamp="1485077365215">
   <folder name="css">
-    <file name="site_global.css" crc="4136761820"/>
-    <file name="master_light.css" crc="404631886" ref="usługi:kontakt:o-nas:projekty:index"/>
-    <file name="us_ugi.css" crc="3919381514" ref="usługi"/>
-    <file name="kontakt.css" crc="504532262" ref="kontakt"/>
-    <file name="o-nas.css" crc="147977" ref="o-nas"/>
-    <file name="projekty.css" crc="4203493622" ref="projekty"/>
-    <file name="index.css" crc="338563228" ref="index"/>
+    <file name="site_global.css" crc="490638317"/>
+    <file name="master_light.css" crc="59108331" ref="index:kontakt:usługi:projekty:o-nas"/>
+    <file name="index.css" crc="4116071844" ref="index"/>
+    <file name="kontakt.css" crc="367390615" ref="kontakt"/>
+    <file name="us_ugi.css" crc="265759107" ref="usługi"/>
+    <file name="projekty.css" crc="3905681276" ref="projekty"/>
+    <file name="o-nas.css" crc="113073699" ref="o-nas"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="museutils.js" crc="183364071" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="webpro.js" crc="3803554875" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="museutils.js" crc="4190794036" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="whatinput.js" crc="84559013" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="webpro.js" crc="488283310" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index:o-nas:usługi:projekty:kontakt"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:o-nas:usługi:projekty"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:o-nas:usługi:projekty"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="form_check.php" crc="277267350" ref="kontakt"/>
-    <file name="form_throttle.php" crc="3908387251" ref="kontakt"/>
-    <file name="form_process.php" crc="24249335" ref="kontakt"/>
-    <file name="form-u912.php" crc="448242964" ref="kontakt"/>
+    <file name="form_check.php" crc="430210585" ref="kontakt"/>
+    <file name="form_throttle.php" crc="282343929" ref="kontakt"/>
+    <file name="form_process.php" crc="339897355" ref="kontakt"/>
+    <file name="form-u912.php" crc="4235494997" ref="kontakt"/>
   </folder>
   <folder name="images">
     <file name="istock_000010271941_large.jpg" crc="190162115" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
     <file name="blank.gif" crc="4208392903" ref="index:o-nas:usługi:projekty:kontakt"/>
     <file name="istock_000005193352_large.jpg" crc="209436223" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="istock_000000856293_large.jpg" crc="3861860808" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u73-grad.png" crc="473759475" ref="index"/>
+    <file name="twitter-2.png" crc="408866873" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="linkedin.png" crc="69334328" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="facebook.png" crc="4127044951" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="flickr.png" crc="4163949550" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
+    <file name="email.png" crc="4185376222" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
     <file name="istock_000039356874_small.jpg" crc="50382225" ref="index"/>
     <file name="istock_000003584033medium.jpg" crc="519597721" ref="index"/>
-    <file name="istock_000018577320_small.jpg" crc="3939132329" ref="index:o-nas:usługi"/>
+    <file name="istock_000018577320_small.jpg" crc="3939132329" ref="o-nas:usługi"/>
     <file name="istock_000003217133_small (1).jpg" crc="3865102020" ref="index"/>
     <file name="istock_000016621796_large-e1418849206149.jpg" crc="4232190592" ref="index:projekty"/>
+    <file name="istock_000031633478_large.jpg" crc="4051060003" ref="index:projekty"/>
     <file name="u209-grad.png" crc="515409133" ref="index"/>
     <file name="u209-r-grad.png" crc="4137999227" ref="index"/>
+    <file name="family-business.jpg" crc="289031543" ref="index"/>
     <file name="istock_000031457516_large.jpg" crc="4255374131" ref="o-nas:usługi"/>
     <file name="istock_000003217133_small.jpg" crc="4163799657" ref="o-nas:usługi"/>
-    <file name="istock_000000856293_large.jpg" crc="3861860808" ref="projekty:index:o-nas:usługi:kontakt" seo="true"/>
+    <file name="01.jpg" crc="4285446853" ref="usługi:index"/>
+    <file name="istock_000049132660_small.jpg" crc="3843443028" ref="usługi"/>
+    <file name="istock_000000856293_large-u967-fr.jpg" crc="381132818" ref="projekty"/>
     <file name="istock_000005193352_large-u971-fr.jpg" crc="3994969046" ref="projekty"/>
     <file name="istock_000038763938_small.jpg" crc="97862029" ref="projekty"/>
     <file name="istock_000020530258_small.jpg" crc="4104001943" ref="projekty"/>
@@ -48,20 +59,11 @@
     <file name="u918-17-r.png" crc="162444193" ref="kontakt"/>
     <file name="u918-17-m.png" crc="3916611556" ref="kontakt"/>
     <file name="u918-17-fs.png" crc="3801938074" ref="kontakt"/>
-    <file name="istock_000049132660_small.jpg" crc="3843443028" ref="usługi"/>
-    <file name="01.jpg" crc="4285446853" ref="usługi"/>
-    <file name="twitter-2.png" crc="408866873" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="linkedin.png" crc="69334328" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="facebook.png" crc="4127044951" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="flickr.png" crc="4163949550" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="email.png" crc="4185376222" seo="true" ref="index:o-nas:usługi:projekty:kontakt"/>
-    <file name="istock_000031633478_large.jpg" crc="4051060003" ref="index:projekty"/>
-    <file name="family-business.jpg" crc="289031543" ref="index"/>
-    <file name="istock_000000856293_large-u967-fr.jpg" crc="381132818" ref="projekty"/>
+    <file name="istock_000037961040_small.jpg" crc="4198533177" ref="index"/>
   </folder>
-  <file name="index.html" crc="461195540" seo="true" mt="1480938764700" redirect="true"/>
-  <file name="o-nas.html" crc="4021059404" seo="true" mt="1480938598368" redirect="true"/>
-  <file name="usługi.html" crc="4072336267" seo="true" mt="1480938536429" redirect="true"/>
-  <file name="projekty.html" crc="4022339175" seo="true" mt="1480938764479" redirect="true"/>
-  <file name="kontakt.html" crc="4114883295" seo="true" mt="1480938497064" redirect="true"/>
+  <file name="index.html" crc="4240953007" seo="true" mt="1485077361149" redirect="true"/>
+  <file name="o-nas.html" crc="4065827270" seo="true" mt="1485077329139" redirect="true"/>
+  <file name="usługi.html" crc="4128378585" seo="true" mt="1485076966129" redirect="true"/>
+  <file name="projekty.html" crc="63976343" seo="true" mt="1480938764479" redirect="true"/>
+  <file name="kontakt.html" crc="4290529194" seo="true" mt="1480938497064" redirect="true"/>
 </manifest>

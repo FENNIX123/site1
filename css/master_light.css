@@ -1,14 +1,13 @@
 #u793-5
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #2AC0FF;
 	font-size: 37px;
+	color: #2AC0FF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
-	position: relative;
 }
 
 #u793
@@ -25,7 +24,6 @@
 {
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 }
 
 #u487:hover
@@ -41,11 +39,10 @@
 #u488-4
 {
 	background-color: transparent;
-	color: #000000;
 	font-size: 15px;
 	text-align: center;
+	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	position: relative;
 }
 
 #u488
@@ -58,7 +55,6 @@
 {
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 }
 
 #u517:hover
@@ -82,21 +78,19 @@
 {
 	background-color: transparent;
 	letter-spacing: 2px;
-	color: #000000;
 	font-size: 15px;
 	text-align: center;
+	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
-	position: relative;
 }
 
 #u482
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	border-radius: 0px;
-	position: relative;
 }
 
 #u482:hover
@@ -113,19 +107,17 @@
 {
 	background-color: transparent;
 	letter-spacing: 2px;
-	color: #000000;
 	font-size: 15px;
 	text-align: center;
+	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
-	position: relative;
 }
 
 #u524
 {
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 }
 
 #u524:hover
@@ -142,25 +134,17 @@
 {
 	background-color: transparent;
 	letter-spacing: 2px;
-	color: #000000;
 	font-size: 15px;
 	text-align: center;
+	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
-	position: relative;
-}
-
-#u486,#u514,#u479,#u521,#u493
-{
-	background-color: transparent;
-	position: relative;
 }
 
 #u494
 {
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 }
 
 #u494:hover
@@ -174,21 +158,15 @@
 	background-color: #939495;
 }
 
-#u487.MuseMenuActive,#u482.MuseMenuActive,#u524.MuseMenuActive,#u494.MuseMenuActive
-{
-	background-color: transparent;
-}
-
 #u495-4
 {
 	background-color: transparent;
 	letter-spacing: 2px;
-	color: #000000;
 	font-size: 15px;
 	text-align: center;
+	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
-	position: relative;
 }
 
 #u487.MuseMenuActive #u488-4 p,#u487.MuseMenuActive #u488-4 span,#u517.MuseMenuActive #u520-4 p,#u482.MuseMenuActive #u485-4 p,#u524.MuseMenuActive #u525-4 p,#u494.MuseMenuActive #u495-4 p
@@ -196,39 +174,14 @@
 	text-decoration: underline;
 }
 
-#slideshowu847
-{
-	position: relative;
-}
-
-#u848
-{
-	position: absolute;
-	background-color: transparent;
-}
-
-#u851,#u853,#u849
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u851_clip,#u853_clip,#u849_clip
-{
-	overflow: hidden;
-}
-
 #u856-4,#u872-4
 {
-	position: absolute;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	font-size: 39px;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 1.4;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
@@ -248,7 +201,6 @@
 	border-color: #000000;
 	background-color: #E5EEF9;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	position: relative;
 }
 
 #u73
@@ -257,35 +209,32 @@
 	background: -webkit-gradient(linear, left center, right center, color-stop(10%, #313131),to(#474747));
 	background: -webkit-linear-gradient(left,#313131 10%,#474747 );
 	background: linear-gradient(to right,#313131 10%,#474747 );
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 10px 0px 0px 10px ;
-	position: fixed;
 }
 
-#u74
+#u851,#u853,#u849,#u74
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: fixed;
 }
 
-#u98,#u104,#u110,#u116
+#u486,#u487.MuseMenuActive,#u514,#u479,#u482.MuseMenuActive,#u521,#u524.MuseMenuActive,#u493,#u494.MuseMenuActive,#u848,#u98,#u104,#u110,#u116
 {
 	background-color: transparent;
-	position: fixed;
 }
 
 #u630-4
 {
 	background-color: transparent;
 	letter-spacing: 2px;
-	color: #FFFFFF;
 	font-size: 12px;
 	text-align: left;
+	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
-	position: relative;
 }
+
 
