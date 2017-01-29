@@ -1,7 +1,7 @@
 .version.us_ugi /* version checker */
 {
-	color: #00000F;
-	background-color: #D72983;
+	color: #000007;
+	background-color: #BC7E7E;
 }
 
 #muse_css_mq
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 936px;
+	min-height: 935.8758915834517px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -29,16 +30,16 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu793-5
+#pu793-7
 {
 	width: 0.01px;
 	margin-left: 76px;
 }
 
-#u793-5
+#u793-7
 {
 	z-index: 51;
-	width: 210px;
+	width: 345px;
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
@@ -435,11 +436,11 @@
 
 #slideshowu847
 {
-	z-index: 56;
+	z-index: 58;
 	width: 0.01px;
 	height: 445px;
 	margin-left: 21px;
-	margin-top: 30px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -453,12 +454,12 @@
 
 #u848popup
 {
-	z-index: 57;
+	z-index: 59;
 }
 
 #u851
 {
-	z-index: 58;
+	z-index: 60;
 	width: 803px;
 	height: 445px;
 	margin-right: -10000px;
@@ -474,7 +475,7 @@
 
 #u853
 {
-	z-index: 60;
+	z-index: 62;
 	width: 803px;
 	height: 445px;
 	margin-right: -10000px;
@@ -489,7 +490,7 @@
 
 #u849
 {
-	z-index: 62;
+	z-index: 64;
 	width: 803px;
 	height: 445px;
 	margin-right: -10000px;
@@ -513,7 +514,7 @@
 
 #u856-4popup
 {
-	z-index: 64;
+	z-index: 66;
 }
 
 #u872-4
@@ -528,7 +529,7 @@
 
 #u872-4popup
 {
-	z-index: 68;
+	z-index: 70;
 }
 
 #u644-3
@@ -537,8 +538,8 @@
 	width: 919px;
 	min-height: 445px;
 	margin-left: 21px;
-	top: -445px;
-	margin-bottom: -445px;
+	top: -444px;
+	margin-bottom: -444px;
 	position: relative;
 }
 
@@ -607,7 +608,7 @@
 
 #u1121
 {
-	z-index: 77;
+	z-index: 79;
 	width: 919px;
 	background-color: #E5EEF9;
 	margin-left: 21px;
@@ -617,7 +618,7 @@
 
 #u1122-4
 {
-	z-index: 78;
+	z-index: 80;
 	width: 892px;
 	min-height: 32px;
 	background-color: transparent;
@@ -640,21 +641,13 @@
 
 #u1403-9
 {
-	z-index: 82;
+	z-index: 84;
 	width: 607px;
 	min-height: 173px;
 	background-color: transparent;
 	text-align: left;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u1403-2
-{
-	font-size: 24px;
-	color: #000000;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: normal;
 }
 
 #u1403-3
@@ -671,7 +664,7 @@
 
 #u1108
 {
-	z-index: 75;
+	z-index: 77;
 	width: 293px;
 	height: 173px;
 	position: relative;
@@ -683,7 +676,7 @@
 
 #u1406-7
 {
-	z-index: 91;
+	z-index: 93;
 	width: 606px;
 	min-height: 173px;
 	background-color: transparent;
@@ -694,7 +687,7 @@
 
 #u1093
 {
-	z-index: 73;
+	z-index: 75;
 	width: 293px;
 	height: 173px;
 	position: relative;
@@ -713,7 +706,7 @@
 
 #u1409-7
 {
-	z-index: 98;
+	z-index: 100;
 	width: 606px;
 	min-height: 173px;
 	background-color: transparent;
@@ -731,7 +724,7 @@
 
 #u1104
 {
-	z-index: 74;
+	z-index: 76;
 	width: 293px;
 	height: 173px;
 	position: relative;
@@ -750,7 +743,7 @@
 
 #u1412-7
 {
-	z-index: 105;
+	z-index: 107;
 	width: 607px;
 	min-height: 173px;
 	background-color: transparent;
@@ -761,7 +754,7 @@
 
 #u1112
 {
-	z-index: 76;
+	z-index: 78;
 	width: 293px;
 	height: 173px;
 	position: relative;
@@ -771,16 +764,16 @@
 	background-size: cover;
 }
 
-#pu1415-20
+#pu1421-21
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 27px;
+	margin-top: 24px;
 }
 
-#u1415-20
+#u1421-21
 {
-	z-index: 112;
+	z-index: 114;
 	width: 460px;
 	min-height: 79px;
 	background-color: transparent;
@@ -789,21 +782,22 @@
 	margin-right: -10000px;
 }
 
-#u1406-2,#u1409-2,#u1412-2,#u1415-2
+#u1403-2,#u1406-2,#u1409-2,#u1412-2,#u1421-2
 {
-	font-size: 24px;
+	font-size: 22px;
 	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
 }
 
-#u1406-3,#u1412-3,#u1415-3
+#u1406-3,#u1412-3,#u1421-3
 {
 	font-size: 13px;
 	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u1406-5,#u1409-5,#u1412-5,#u1415-5,#u1415-7,#u1415-9,#u1415-11,#u1415-13,#u1415-15,#u1415-17,#u1415-18
+#u1406-5,#u1409-5,#u1412-5,#u1421-5,#u1421-7,#u1421-10,#u1421-12,#u1421-14,#u1421-16,#u1421-18
 {
 	font-size: 16px;
 	color: #000000;
@@ -812,11 +806,12 @@
 
 #u1086
 {
-	z-index: 72;
+	z-index: 74;
 	width: 293px;
 	height: 173px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 3px;
 	left: 627px;
 	background: transparent url("../images/istock_000049132660_small.jpg") no-repeat center center;
 	background-size: cover;

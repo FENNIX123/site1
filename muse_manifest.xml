@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lllo.bbom" resolutions="1x" timestamp="1485077365215">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lllo.bbom" resolutions="1x" timestamp="1485729240560">
   <folder name="css">
     <file name="site_global.css" crc="490638317"/>
-    <file name="master_light.css" crc="59108331" ref="index:kontakt:usługi:projekty:o-nas"/>
-    <file name="index.css" crc="4116071844" ref="index"/>
-    <file name="kontakt.css" crc="367390615" ref="kontakt"/>
-    <file name="us_ugi.css" crc="265759107" ref="usługi"/>
-    <file name="projekty.css" crc="3905681276" ref="projekty"/>
-    <file name="o-nas.css" crc="113073699" ref="o-nas"/>
+    <file name="master_light.css" crc="252605536" ref="index:kontakt:usługi:projekty:o-nas"/>
+    <file name="index.css" crc="339888335" ref="index"/>
+    <file name="kontakt.css" crc="194699536" ref="kontakt"/>
+    <file name="us_ugi.css" crc="129793662" ref="usługi"/>
+    <file name="projekty.css" crc="125902193" ref="projekty"/>
+    <file name="o-nas.css" crc="322344905" ref="o-nas"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:o-nas:usługi:projekty:kontakt"/>
@@ -51,7 +51,6 @@
     <file name="istock_000003217133_small.jpg" crc="4163799657" ref="o-nas:usługi"/>
     <file name="01.jpg" crc="4285446853" ref="usługi:index"/>
     <file name="istock_000049132660_small.jpg" crc="3843443028" ref="usługi"/>
-    <file name="istock_000000856293_large-u967-fr.jpg" crc="381132818" ref="projekty"/>
     <file name="istock_000005193352_large-u971-fr.jpg" crc="3994969046" ref="projekty"/>
     <file name="istock_000038763938_small.jpg" crc="97862029" ref="projekty"/>
     <file name="istock_000020530258_small.jpg" crc="4104001943" ref="projekty"/>
@@ -60,10 +59,11 @@
     <file name="u918-17-m.png" crc="3916611556" ref="kontakt"/>
     <file name="u918-17-fs.png" crc="3801938074" ref="kontakt"/>
     <file name="istock_000037961040_small.jpg" crc="4198533177" ref="index"/>
+    <file name="istock_000000856293_large-u1433-fr.jpg" crc="381132818" ref="index:projekty"/>
   </folder>
-  <file name="index.html" crc="4240953007" seo="true" mt="1485077361149" redirect="true"/>
-  <file name="o-nas.html" crc="4065827270" seo="true" mt="1485077329139" redirect="true"/>
-  <file name="usługi.html" crc="4128378585" seo="true" mt="1485076966129" redirect="true"/>
-  <file name="projekty.html" crc="63976343" seo="true" mt="1480938764479" redirect="true"/>
-  <file name="kontakt.html" crc="4290529194" seo="true" mt="1480938497064" redirect="true"/>
+  <file name="index.html" crc="213763147" seo="true" mt="1485729106335" redirect="true"/>
+  <file name="o-nas.html" crc="309792350" seo="true" mt="1485522551739" redirect="true"/>
+  <file name="usługi.html" crc="514050662" seo="true" mt="1485728744640" redirect="true"/>
+  <file name="projekty.html" crc="3838331023" seo="true" mt="1485729037861" redirect="true"/>
+  <file name="kontakt.html" crc="98045188" seo="true" mt="1485729216963" redirect="true"/>
 </manifest>

@@ -1,21 +1,21 @@
-#u793-5
+#u793-7
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 37px;
+	font-size: 33px;
 	color: #2AC0FF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
 }
 
-#u793
+#u793,#u793-3
 {
 	color: #000000;
 }
 
-#u793-2
+#u793-2,#u793-4
 {
 	color: #BED6F9;
 }
@@ -179,10 +179,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1.4;
 	font-size: 39px;
 	text-align: center;
 	color: #FFFFFF;
-	line-height: 1.4;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
