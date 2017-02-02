@@ -1,7 +1,7 @@
 .version.projekty /* version checker */
 {
-	color: #000007;
-	background-color: #811D71;
+	color: #0000EB;
+	background-color: #E5F480;
 }
 
 #muse_css_mq
@@ -645,7 +645,7 @@
 	height: 173px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/istock_000000856293_large-u1433-fr.jpg") no-repeat center bottom;
+	background: transparent url("../images/istock_000000856293_large-u967-fr.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -671,13 +671,6 @@
 	left: 626px;
 	background: transparent url("../images/istock_000005193352_large-u971-fr.jpg") no-repeat center bottom;
 	background-size: cover;
-}
-
-#pu968-9
-{
-	width: 0.01px;
-	margin-left: 21px;
-	margin-top: 9px;
 }
 
 #u968-9
@@ -729,7 +722,7 @@
 	height: 173px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/istock_000031633478_large.jpg") no-repeat center center;
+	background: transparent url("../images/istock_000021550975medium.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -799,20 +792,104 @@
 	left: 626px;
 }
 
-#u968-2,#u970-2,#u972-2,#u991-2,#u993-2,#u995-2
+#pu1444
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 53px;
+}
+
+#u1444
+{
+	z-index: 129;
+	width: 293px;
+	height: 173px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/everything-you-need-to-know-about-fixing-roofs.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1446
+{
+	z-index: 137;
+	width: 293px;
+	height: 173px;
+	position: relative;
+	margin-right: -10000px;
+	left: 313px;
+	background: transparent url("../images/istock_000054568486_medium.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1448
+{
+	z-index: 147;
+	width: 293px;
+	height: 173px;
+	position: relative;
+	margin-right: -10000px;
+	left: 626px;
+	background: transparent url("../images/istock_000003659093_small.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#pu968-9,#pu1445-7
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 9px;
+}
+
+#u1445-7
+{
+	z-index: 130;
+	width: 293px;
+	min-height: 56px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1447-9
+{
+	z-index: 138;
+	width: 293px;
+	min-height: 56px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	left: 313px;
+}
+
+#u1449-7
+{
+	z-index: 148;
+	width: 293px;
+	min-height: 56px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	left: 626px;
+}
+
+#u968-2,#u970-2,#u972-2,#u991-2,#u993-2,#u995-2,#u1445-2,#u1447-2,#u1449-2
 {
 	color: #000000;
 	font-weight: bold;
 }
 
-#u968-3,#u970-3,#u972-3,#u991-3,#u993-3,#u995-3
+#u968-3,#u970-3,#u972-3,#u991-3,#u993-3,#u995-3,#u1445-3,#u1447-3,#u1449-3
 {
 	font-size: 13px;
 	color: #000000;
 	font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
 }
 
-#u968-5,#u968-7,#u970-5,#u972-5,#u991-5,#u993-5,#u995-5
+#u968-5,#u968-7,#u970-5,#u972-5,#u991-5,#u993-5,#u995-5,#u1445-5,#u1447-5,#u1447-7,#u1449-5
 {
 	font-size: 13px;
 	color: #000000;
